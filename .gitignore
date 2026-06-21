@@ -1,0 +1,12 @@
+.DS_Store
+Thumbs.db
+.env
+*.pem
+*.key
+*.p12
+*.pfx
+*.zip
+*.tar
+*.tar.gz
+*.whl
+proof-manifest.local.json

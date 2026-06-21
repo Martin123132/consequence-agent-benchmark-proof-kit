@@ -1,0 +1,5 @@
+benchmark,seeds,headline_policy,benchmark_score,public_result
+warehouse_v16,50,adaptive_candidate_efficient,0.920692,passed
+organism_v11,160,consequence_v11,0.644203,passed
+resource_allocation_v1,90,consequence_guard,0.946523,passed
+delayed_harm_v1,90,audit_then_act,0.945781,passed

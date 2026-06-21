@@ -1,0 +1,209 @@
+{
+  "cab_version": "0.5.0.dev0",
+  "created_at": "2026-06-21T01:12:20Z",
+  "directory_hash": "d363a752430eaebf3c7b311cd19ed9303396647bf2daf288f1746b00a4aaec0a",
+  "evidence_release": "v0.4.0",
+  "file_count": 26,
+  "files": {
+    ".github/ISSUE_TEMPLATE/access_request.md": {
+      "bytes": 867,
+      "sha256": "1d8a98c1e9dd2861d71f442b022ac7a2a022779632fedfb6364f0c80bd8bacc4"
+    },
+    ".gitignore": {
+      "bytes": 102,
+      "sha256": "d647752ac1491c39c6edc841b003f6ac5690c2eb905a4f012b50ecf4b1e019ba"
+    },
+    "ACCESS_REQUEST.md": {
+      "bytes": 2725,
+      "sha256": "bfdadbd010d098b7deaf53d4c893e6d784ff02b700e01abca7a6184ee7c88ab9"
+    },
+    "COMMERCIAL_USE.md": {
+      "bytes": 1652,
+      "sha256": "c6805c92e8dfb6a4df7c56efe2bf979bf5eb00cc15ce4aabaabef688ec5fbed4"
+    },
+    "LICENSE.md": {
+      "bytes": 1299,
+      "sha256": "4ec0085bcc32ec5f5fdaadfd9c168152a720ae34dda57148af69ffd47f29a65f"
+    },
+    "NDA_ACCESS.md": {
+      "bytes": 1334,
+      "sha256": "91f64783be3a065e8c36fd42de30051155d2630eeb2e05e27957bcbd2de3eb6a"
+    },
+    "NOTICE.md": {
+      "bytes": 1380,
+      "sha256": "e4a1a6f2676834d927521b86aa6c01ee980e6473c95cf75c9e14c9758d0299dd"
+    },
+    "PROOF_SCOPE.md": {
+      "bytes": 1160,
+      "sha256": "532a15f1365cd0dc78c2df1de0b16a41284258a20ad1be4dc1b5c891e0d37d11"
+    },
+    "PUBLICATION_CHECKLIST.md": {
+      "bytes": 1215,
+      "sha256": "558086931e12aa457b07fa8317fb160589481eb326d7d301c9278dedf68922bc"
+    },
+    "README.md": {
+      "bytes": 4654,
+      "sha256": "f2f78b768b32ff1e083717cf895722a2e2b8410090b6ac117ae6c8b157d4d499"
+    },
+    "TRADEMARKS.md": {
+      "bytes": 422,
+      "sha256": "154aec13f975a1af63111f5859a6acd5f674bbaa4078ae4bc0accf1af5bb783f"
+    },
+    "docs/access-intake-workflow.md": {
+      "bytes": 1615,
+      "sha256": "7e75b6931bf4ba6af90a88fb1bf14d5875784bd1a14b7b73bc1b0338e9d9c159"
+    },
+    "docs/access-request-checklist.md": {
+      "bytes": 912,
+      "sha256": "856556dddd4149b85cd9bc32be998bd0cd286692bf0d9472a16b7f46d73d05af"
+    },
+    "docs/architecture-overview.md": {
+      "bytes": 1542,
+      "sha256": "9a851144783cb3ef38a17159a873a3572b71a4cd605e9ae16b068d365c4d6ddc"
+    },
+    "docs/evidence-review-guide.md": {
+      "bytes": 1459,
+      "sha256": "6643b8c45a90ce2e735b49b456e18a79d1cb821b49780f0c489de452900205e9"
+    },
+    "docs/proof-evidence-checklist.md": {
+      "bytes": 726,
+      "sha256": "407aa80fe3a7b9f25e9b0b4b47094a280ca724c2fb924199219ea5f540ae1ba7"
+    },
+    "docs/public-proof-one-pager.md": {
+      "bytes": 1305,
+      "sha256": "12665ec2ba5d7dbd5d9ac6e90311bdfa1ae541d16af1958c3420daf6635d3aec"
+    },
+    "docs/publication-runbook.md": {
+      "bytes": 1647,
+      "sha256": "ff2d7f826211882a142b8573fc7d0cefab23da9d649f7d4ae4e93a17beaf352b"
+    },
+    "proofs/v0.4.0-release-evidence/README.md": {
+      "bytes": 1519,
+      "sha256": "0534b703979500b553f233501f30b816bd53119a6c3fe2b0612a24a33dfe8196"
+    },
+    "proofs/v0.4.0-release-evidence/delayed_harm_v1/evidence_card.md": {
+      "bytes": 1149,
+      "sha256": "7fdeab15827bd89f1f77a72bccfba0dbd84d19a5c04e2b1ab89d6824953209b7"
+    },
+    "proofs/v0.4.0-release-evidence/leaderboard_evidence_card.md": {
+      "bytes": 1297,
+      "sha256": "92d882c3f7d6c583417fb9a2bedb945e03895fe7d7647ecba1be93744d342685"
+    },
+    "proofs/v0.4.0-release-evidence/organism_v11/evidence_card.md": {
+      "bytes": 1152,
+      "sha256": "cec039362e609b5a41cb1533b1fe497637f0fd4bc918609bd3f26749a32b1b55"
+    },
+    "proofs/v0.4.0-release-evidence/resource_allocation_v1/evidence_card.md": {
+      "bytes": 1167,
+      "sha256": "ba805493dafc266f8e87521a258c1377861e33ffebec9a8ebf4c52926f00fc37"
+    },
+    "proofs/v0.4.0-release-evidence/results.csv": {
+      "bytes": 283,
+      "sha256": "8647a2553186e779b86c37f0481c1404cf2619d944f95ec707d68b239cffaeb0"
+    },
+    "proofs/v0.4.0-release-evidence/suite_evidence_card.md": {
+      "bytes": 1551,
+      "sha256": "5e2610902bf115be8ac2bc46a354b141ebfbec5d215994a6a8a6d227878cd541"
+    },
+    "proofs/v0.4.0-release-evidence/warehouse_v16/evidence_card.md": {
+      "bytes": 1200,
+      "sha256": "688099d771cd343e642d8eaefb6822d42b08633ce1cea29473228d9255ef3d41"
+    }
+  },
+  "manifest_hash": "69789f66b7a530898bafe24b5cb2067d7114f103af32962e53cda9c8f6701574",
+  "proof_version": "v0.1.0-public-proof",
+  "publication_gate": {
+    "checks": [
+      {
+        "detail": "all required files present",
+        "id": "required_public_files",
+        "items": [],
+        "label": "Required public proof-kit files exist",
+        "status": "pass"
+      },
+      {
+        "detail": "proof manifest present",
+        "id": "proof_manifest_present",
+        "items": [],
+        "label": "Proof manifest is present",
+        "status": "pass"
+      },
+      {
+        "detail": "no blocked files found",
+        "id": "no_blocked_files",
+        "items": [],
+        "label": "No blocked file types or engine directories are present",
+        "status": "pass"
+      },
+      {
+        "detail": "content scan clean",
+        "id": "no_private_content_leaks",
+        "items": [],
+        "label": "No secrets, absolute local paths, or private engine references are present",
+        "status": "pass"
+      },
+      {
+        "detail": "all markdown links resolve",
+        "id": "markdown_links_resolve",
+        "items": [],
+        "label": "Markdown relative links resolve inside the proof kit",
+        "status": "pass"
+      }
+    ],
+    "status": "pass"
+  },
+  "publication_status": "local-review",
+  "reproducibility_references": {
+    "benchmark_evidence_cards": {
+      "proofs/v0.4.0-release-evidence/delayed_harm_v1/evidence_card.md": {
+        "bytes": 1149,
+        "sha256": "7fdeab15827bd89f1f77a72bccfba0dbd84d19a5c04e2b1ab89d6824953209b7"
+      },
+      "proofs/v0.4.0-release-evidence/leaderboard_evidence_card.md": {
+        "bytes": 1297,
+        "sha256": "92d882c3f7d6c583417fb9a2bedb945e03895fe7d7647ecba1be93744d342685"
+      },
+      "proofs/v0.4.0-release-evidence/organism_v11/evidence_card.md": {
+        "bytes": 1152,
+        "sha256": "cec039362e609b5a41cb1533b1fe497637f0fd4bc918609bd3f26749a32b1b55"
+      },
+      "proofs/v0.4.0-release-evidence/resource_allocation_v1/evidence_card.md": {
+        "bytes": 1167,
+        "sha256": "ba805493dafc266f8e87521a258c1377861e33ffebec9a8ebf4c52926f00fc37"
+      },
+      "proofs/v0.4.0-release-evidence/suite_evidence_card.md": {
+        "bytes": 1551,
+        "sha256": "5e2610902bf115be8ac2bc46a354b141ebfbec5d215994a6a8a6d227878cd541"
+      },
+      "proofs/v0.4.0-release-evidence/warehouse_v16/evidence_card.md": {
+        "bytes": 1200,
+        "sha256": "688099d771cd343e642d8eaefb6822d42b08633ce1cea29473228d9255ef3d41"
+      }
+    },
+    "leaderboard_evidence_card": {
+      "bytes": 1297,
+      "sha256": "92d882c3f7d6c583417fb9a2bedb945e03895fe7d7647ecba1be93744d342685"
+    },
+    "locked_results_csv": {
+      "bytes": 283,
+      "sha256": "8647a2553186e779b86c37f0481c1404cf2619d944f95ec707d68b239cffaeb0"
+    },
+    "release_evidence_readme": {
+      "bytes": 1519,
+      "sha256": "0534b703979500b553f233501f30b816bd53119a6c3fe2b0612a24a33dfe8196"
+    },
+    "suite_evidence_card": {
+      "bytes": 1551,
+      "sha256": "5e2610902bf115be8ac2bc46a354b141ebfbec5d215994a6a8a6d227878cd541"
+    }
+  },
+  "rights_holder": "TWO HANDS NETWORK LTD",
+  "schema_version": "cab.public_proof_manifest.v1",
+  "source_boundary": {
+    "commercial_use": "written permission required",
+    "engine_access": "written approval and possible NDA required",
+    "private_core": "not included",
+    "public_materials": "sanitized proof kit only"
+  },
+  "total_bytes": 35334
+}
