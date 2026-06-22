@@ -1,5 +1,10 @@
 # Evidence Review Guide
 
+Use this guide to decide whether the public evidence is enough, or whether you
+need private verification.
+
+## Review Order
+
 Start with the suite evidence:
 
 - [v0.4.0 release evidence](../proofs/v0.4.0-release-evidence/README.md)
@@ -10,6 +15,9 @@ Then inspect the benchmark cards:
 - [organism state](../proofs/v0.4.0-release-evidence/organism_v11/evidence_card.md)
 - [resource allocation](../proofs/v0.4.0-release-evidence/resource_allocation_v1/evidence_card.md)
 - [delayed harm planning](../proofs/v0.4.0-release-evidence/delayed_harm_v1/evidence_card.md)
+
+Finally, inspect [proof-manifest.json](../proof-manifest.json) to confirm the
+published files and hashes for the exact public checkpoint.
 
 ## Reading The Evidence
 
@@ -48,3 +56,10 @@ The public-safe `v0.4.0` evidence shows:
 
 If you need to review implementation, benchmark internals, private artifacts, or
 raw evidence bundles, use [ACCESS_REQUEST.md](../ACCESS_REQUEST.md).
+
+Good private-review requests are specific:
+
+- which claim you want verified
+- whether you need evidence only, a technical walkthrough, or source review
+- whether the review is commercial, academic, investor, or internal diligence
+- whether an NDA can be signed before private materials are shared

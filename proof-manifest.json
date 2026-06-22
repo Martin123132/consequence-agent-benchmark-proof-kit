@@ -1,9 +1,9 @@
 {
   "cab_version": "0.5.0.dev0",
-  "created_at": "2026-06-21T01:12:20Z",
-  "directory_hash": "d363a752430eaebf3c7b311cd19ed9303396647bf2daf288f1746b00a4aaec0a",
+  "created_at": "2026-06-22T23:26:52Z",
+  "directory_hash": "35a48e7fc2cdff9213e2bd35df473e82f12659c6592b591cfc5f0753822ed6c2",
   "evidence_release": "v0.4.0",
-  "file_count": 26,
+  "file_count": 27,
   "files": {
     ".github/ISSUE_TEMPLATE/access_request.md": {
       "bytes": 867,
@@ -42,8 +42,12 @@
       "sha256": "558086931e12aa457b07fa8317fb160589481eb326d7d301c9278dedf68922bc"
     },
     "README.md": {
-      "bytes": 4654,
-      "sha256": "f2f78b768b32ff1e083717cf895722a2e2b8410090b6ac117ae6c8b157d4d499"
+      "bytes": 5451,
+      "sha256": "5108319d6466fa2e905321a72350781abffc32f141ed0d7807beb01113e288bd"
+    },
+    "RELEASE_NOTES.md": {
+      "bytes": 985,
+      "sha256": "f71c8b512f596addc348bf902b26fb866fef95e3b608e7965fb8d289a7e01a6e"
     },
     "TRADEMARKS.md": {
       "bytes": 422,
@@ -62,16 +66,16 @@
       "sha256": "9a851144783cb3ef38a17159a873a3572b71a4cd605e9ae16b068d365c4d6ddc"
     },
     "docs/evidence-review-guide.md": {
-      "bytes": 1459,
-      "sha256": "6643b8c45a90ce2e735b49b456e18a79d1cb821b49780f0c489de452900205e9"
+      "bytes": 2020,
+      "sha256": "25fa2d16e66fa011c2189d407128a8a074a8fa23c13843925056d50d694b6d37"
     },
     "docs/proof-evidence-checklist.md": {
       "bytes": 726,
       "sha256": "407aa80fe3a7b9f25e9b0b4b47094a280ca724c2fb924199219ea5f540ae1ba7"
     },
     "docs/public-proof-one-pager.md": {
-      "bytes": 1305,
-      "sha256": "12665ec2ba5d7dbd5d9ac6e90311bdfa1ae541d16af1958c3420daf6635d3aec"
+      "bytes": 1490,
+      "sha256": "b4904439ba3630602c3261774e1d744613177d35e163d237ce199e7f1e9faa77"
     },
     "docs/publication-runbook.md": {
       "bytes": 1647,
@@ -110,7 +114,7 @@
       "sha256": "688099d771cd343e642d8eaefb6822d42b08633ce1cea29473228d9255ef3d41"
     }
   },
-  "manifest_hash": "69789f66b7a530898bafe24b5cb2067d7114f103af32962e53cda9c8f6701574",
+  "manifest_hash": "5e4453c6f0dfeeed1a03171193d148758289ebda10334d4a3c064b37146e16d3",
   "proof_version": "v0.1.0-public-proof",
   "publication_gate": {
     "checks": [
@@ -205,5 +209,5 @@
     "private_core": "not included",
     "public_materials": "sanitized proof kit only"
   },
-  "total_bytes": 35334
+  "total_bytes": 37862
 }

@@ -5,6 +5,12 @@
 Consequence Agent Benchmark is a private-core benchmark suite for evaluating
 whether agent policies notice and reduce downstream harms.
 
+The short claim:
+
+CAB evaluates whether agents reduce downstream harm while preserving useful
+capability, using reproducible evidence packages and local/static leaderboard
+validation.
+
 Instead of only asking whether an agent gets reward, CAB asks whether the
 agent's behavior improves across consequence surfaces:
 

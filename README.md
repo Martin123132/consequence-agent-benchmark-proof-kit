@@ -13,9 +13,24 @@ This public repository is not the product source code and is not an open-source
 release. It is a proof kit: public-safe evidence, score summaries, release
 notes, and an access path for people who want to request private review.
 
+## Five-Minute Review Path
+
+If you are new to CAB, read in this order:
+
+1. This README for the claim, boundary, and locked results.
+2. [Public proof one-pager](docs/public-proof-one-pager.md) for the product
+   narrative.
+3. [Evidence review guide](docs/evidence-review-guide.md) for how to inspect
+   the benchmark cards.
+4. [Proof manifest](proof-manifest.json) for file hashes and publication-gate
+   status.
+5. [Access request](ACCESS_REQUEST.md) if you need private verification,
+   technical review, or commercial evaluation.
+
 ## Public Proof Release
 
-The current public-safe proof checkpoint is based on private release `v0.4.0`.
+The current public-safe proof checkpoint is
+[`v0.1.0-public-proof`](RELEASE_NOTES.md), based on private release `v0.4.0`.
 
 Public-safe proof materials in this repo show:
 
@@ -48,6 +63,12 @@ The `v0.4.0` release-readiness evidence passed.
   adapter-evaluation packages.
 - The private engine reached a packaged `v0.4.0` checkpoint with release
   readiness, provenance, SBOM, and standard evidence gates passing.
+
+## Product Claim
+
+CAB evaluates whether agents reduce downstream harm while preserving useful
+capability, using reproducible evidence packages and local/static leaderboard
+validation.
 
 ## What This Does Not Prove
 
@@ -88,6 +109,7 @@ Start with:
 - [Publication runbook](docs/publication-runbook.md)
 - [Proof scope](PROOF_SCOPE.md)
 - [Publication checklist](PUBLICATION_CHECKLIST.md)
+- [Release notes](RELEASE_NOTES.md)
 
 ## Proof Manifest
 
