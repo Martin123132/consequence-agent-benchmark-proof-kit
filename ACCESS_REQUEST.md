@@ -13,7 +13,7 @@ Review the public proof kit first:
 - README
 - proof evidence checklist
 - commercial-use boundary
-- public materials licence
+- public materials license and commercial licensing notice
 
 Then decide what level of review you need.
 
@@ -54,6 +54,8 @@ In the public request, provide:
 In the private NDA follow-up, provide legal name, role/title, work email, and
 any signing details needed by the owner or company. Do not post NDA documents,
 private email addresses, or confidential commercial details in a public issue.
+Commercial license discussions should be directed to the TWO HANDS NETWORK LTD
+COO or owner-approved licensing contact after the access request is triaged.
 
 ## Important GitHub Access Note
 

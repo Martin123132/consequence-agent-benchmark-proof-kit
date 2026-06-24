@@ -3,7 +3,10 @@
 CAB is a private-core benchmark technology. This proof kit is public so people
 can inspect the evidence story and request access without receiving the engine.
 
-The project is not a free-for-all commercial grant.
+The project is not a free-for-all commercial grant. The public materials follow
+the company license pattern: personal and non-commercial use under the
+PolyForm Noncommercial License 1.0.0, with commercial use reserved for a
+separate written company agreement.
 
 ## Allowed Without Asking
 
@@ -16,7 +19,7 @@ The project is not a free-for-all commercial grant.
 
 ## Not Granted
 
-You need a written commercial licence before using CAB, the private engine, the
+You need a written commercial license before using CAB, the private engine, the
 public proof materials, or any derivative implementation in or as part of:
 
 - a commercial AI platform, LLM provider, model gateway, agent framework, or
@@ -31,11 +34,12 @@ public proof materials, or any derivative implementation in or as part of:
 - a copied, translated, reimplemented, embedded, modified, or derivative version
   of the private engine.
 
-## Commercial Licence
+## Commercial License
 
 Commercial use requires a separate written agreement with TWO HANDS NETWORK LTD.
 Terms may include deployment limits, attribution, support, private features,
-audit obligations, or commercial fees.
+audit obligations, or commercial fees. Commercial license discussions should be
+directed to the TWO HANDS NETWORK LTD COO or owner-approved licensing contact.
 
 ## Contact
 

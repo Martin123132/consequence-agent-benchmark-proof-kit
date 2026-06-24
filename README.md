@@ -73,9 +73,9 @@ validation.
 ## What This Does Not Prove
 
 - It does not publish the private CAB implementation.
-- It does not grant an open-source licence.
-- It does not grant a commercial licence.
-- It does not grant a patent licence, trademark licence, hosted-service right,
+- It does not grant an open-source license.
+- It does not grant a commercial license.
+- It does not grant a patent license, trademark license, hosted-service right,
   model-provider right, or AI-platform integration right.
 - It does not claim every agent or environment will produce the same benchmark
   deltas.
@@ -86,15 +86,17 @@ validation.
 
 The private implementation remains closed. Access to the private repository,
 private release artifacts, benchmark internals, raw evidence bundles, or
-commercial evaluation requires written permission from TWO HANDS NETWORK LTD and
-may require a signed NDA.
+commercial evaluation requires written permission from TWO HANDS NETWORK LTD,
+through the company COO or owner-approved licensing contact, and may require a
+signed NDA.
 
 Start with:
 
 - [Access Request](ACCESS_REQUEST.md)
 - [NDA Access Path](NDA_ACCESS.md)
 - [Commercial Use](COMMERCIAL_USE.md)
-- [Public Materials License](LICENSE.md)
+- [Commercial Licensing](COMMERCIAL-LICENSE.md)
+- [License](LICENSE.md)
 - [Notice](NOTICE.md)
 - [Trademarks](TRADEMARKS.md)
 
