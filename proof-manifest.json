@@ -1,7 +1,7 @@
 {
   "cab_version": "0.5.0.dev0",
-  "created_at": "2026-06-24T19:24:29Z",
-  "directory_hash": "8b64a1c9035cffeb702c256dd252495fdc6b38c6801e35540f41ff23176579ee",
+  "created_at": "2026-06-25T12:42:29Z",
+  "directory_hash": "dfa63b09298f8f6ffd38bc42fd5444836fab2c7cb91b612595261b7ee0d48dea",
   "evidence_release": "v0.4.0",
   "file_count": 28,
   "files": {
@@ -26,8 +26,8 @@
       "sha256": "7b3de985a8868e69ed2b51bf0b9418b9fa8def3aede543c9d20b618cfc966cb8"
     },
     "LICENSE.md": {
-      "bytes": 4980,
-      "sha256": "029b9d1661aeb94b30da1499377eb72da8712dce1119bfab4d3d28439b0ba478"
+      "bytes": 5133,
+      "sha256": "adac5a4e970fb480ce51533bf06f8a8e6ddcf695f8145425d8c2ba494ecc890a"
     },
     "NDA_ACCESS.md": {
       "bytes": 1334,
@@ -118,7 +118,7 @@
       "sha256": "688099d771cd343e642d8eaefb6822d42b08633ce1cea29473228d9255ef3d41"
     }
   },
-  "manifest_hash": "e2e224f6f5411fddb4bba0e7cd59131af4a868c280d0f1338fa0e6ffa745a673",
+  "manifest_hash": "df1d316bb0c680d9b5e53d9a8b431512012d065b6e735e24ad941de9f5060c57",
   "proof_version": "v0.1.0-public-proof",
   "publication_gate": {
     "checks": [
@@ -220,5 +220,5 @@
     "private_core": "not included",
     "public_materials": "sanitized proof kit only"
   },
-  "total_bytes": 43915
+  "total_bytes": 44068
 }
