@@ -1,9 +1,9 @@
 {
   "cab_version": "0.5.0.dev0",
-  "created_at": "2026-06-25T12:42:29Z",
-  "directory_hash": "dfa63b09298f8f6ffd38bc42fd5444836fab2c7cb91b612595261b7ee0d48dea",
+  "created_at": "2026-06-27T02:20:56Z",
+  "directory_hash": "7ee9b435c06ca264893d6d21ab96aaa073fa2a927cd6c06131a156629489f453",
   "evidence_release": "v0.4.0",
-  "file_count": 28,
+  "file_count": 31,
   "files": {
     ".github/ISSUE_TEMPLATE/access_request.md": {
       "bytes": 867,
@@ -24,6 +24,10 @@
     "COMMERCIAL_USE.md": {
       "bytes": 1980,
       "sha256": "7b3de985a8868e69ed2b51bf0b9418b9fa8def3aede543c9d20b618cfc966cb8"
+    },
+    "EVIDENCE_MAP.md": {
+      "bytes": 2200,
+      "sha256": "6028dec2e00b402ae67d9143a2335e8f621410e4b05d9f074fae426fb750923e"
     },
     "LICENSE.md": {
       "bytes": 5133,
@@ -46,8 +50,8 @@
       "sha256": "558086931e12aa457b07fa8317fb160589481eb326d7d301c9278dedf68922bc"
     },
     "README.md": {
-      "bytes": 5544,
-      "sha256": "ff78614efa9ac8aad6ea9c77053c0a01bfdbecf3832d2467d549c102240babb0"
+      "bytes": 5791,
+      "sha256": "2cb2c97cb1df8ab29ed2cdb5561d08e34b14f4d6ab39eb8f6b61422d07cf4533"
     },
     "RELEASE_NOTES.md": {
       "bytes": 985,
@@ -56,6 +60,10 @@
     "TRADEMARKS.md": {
       "bytes": 422,
       "sha256": "154aec13f975a1af63111f5859a6acd5f674bbaa4078ae4bc0accf1af5bb783f"
+    },
+    "WHY_CAB.md": {
+      "bytes": 1637,
+      "sha256": "5606932af3b56b82ffccc51a338b67bb5afa1784b1902f0bfb1bf151584b5315"
     },
     "docs/access-intake-workflow.md": {
       "bytes": 1615,
@@ -70,8 +78,8 @@
       "sha256": "9a851144783cb3ef38a17159a873a3572b71a4cd605e9ae16b068d365c4d6ddc"
     },
     "docs/evidence-review-guide.md": {
-      "bytes": 2020,
-      "sha256": "25fa2d16e66fa011c2189d407128a8a074a8fa23c13843925056d50d694b6d37"
+      "bytes": 2441,
+      "sha256": "10de9a853ddbc2d57bafbd78338cda6855d92fee234d16dc66b5d22365774b0e"
     },
     "docs/proof-evidence-checklist.md": {
       "bytes": 726,
@@ -84,6 +92,10 @@
     "docs/publication-runbook.md": {
       "bytes": 1647,
       "sha256": "ff2d7f826211882a142b8573fc7d0cefab23da9d649f7d4ae4e93a17beaf352b"
+    },
+    "docs/reviewer-walkthrough.md": {
+      "bytes": 1220,
+      "sha256": "e497c0c8ff80391c4abd28dffc7a313a710b89250e449185ac343c17793d74a0"
     },
     "proofs/v0.4.0-release-evidence/README.md": {
       "bytes": 1519,
@@ -118,7 +130,7 @@
       "sha256": "688099d771cd343e642d8eaefb6822d42b08633ce1cea29473228d9255ef3d41"
     }
   },
-  "manifest_hash": "df1d316bb0c680d9b5e53d9a8b431512012d065b6e735e24ad941de9f5060c57",
+  "manifest_hash": "0bb10b5a49046786d009dbac4cdf3469c3103c5c7fdf7c03ed14379919f5f3e7",
   "proof_version": "v0.1.0-public-proof",
   "publication_gate": {
     "checks": [
@@ -220,5 +232,5 @@
     "private_core": "not included",
     "public_materials": "sanitized proof kit only"
   },
-  "total_bytes": 44068
+  "total_bytes": 49793
 }

@@ -5,7 +5,13 @@ need private verification.
 
 ## Review Order
 
-Start with the suite evidence:
+Start with the orientation files:
+
+- [why CAB](../WHY_CAB.md)
+- [evidence map](../EVIDENCE_MAP.md)
+- [five-minute reviewer walkthrough](reviewer-walkthrough.md)
+
+Then inspect the suite evidence:
 
 - [v0.4.0 release evidence](../proofs/v0.4.0-release-evidence/README.md)
 
@@ -18,6 +24,16 @@ Then inspect the benchmark cards:
 
 Finally, inspect [proof-manifest.json](../proof-manifest.json) to confirm the
 published files and hashes for the exact public checkpoint.
+
+## Fast Verdict
+
+A reviewer should be able to answer:
+
+- What does CAB claim to measure?
+- Which public file supports each claim?
+- Which hash identifies this exact public proof kit?
+- What remains private?
+- What access level is needed for deeper review?
 
 ## Reading The Evidence
 
