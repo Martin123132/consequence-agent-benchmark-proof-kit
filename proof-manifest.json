@@ -1,6 +1,6 @@
 {
   "cab_version": "0.5.0.dev0",
-  "created_at": "2026-06-27T02:20:56Z",
+  "created_at": "2026-06-27T16:09:41Z",
   "directory_hash": "7ee9b435c06ca264893d6d21ab96aaa073fa2a927cd6c06131a156629489f453",
   "evidence_release": "v0.4.0",
   "file_count": 31,
@@ -130,7 +130,7 @@
       "sha256": "688099d771cd343e642d8eaefb6822d42b08633ce1cea29473228d9255ef3d41"
     }
   },
-  "manifest_hash": "0bb10b5a49046786d009dbac4cdf3469c3103c5c7fdf7c03ed14379919f5f3e7",
+  "manifest_hash": "19a4d1a9aaed15ca6cd83676a95f9b28b4f80f1231d699d4099f5e757ab6a433",
   "proof_version": "v0.1.0-public-proof",
   "publication_gate": {
     "checks": [
