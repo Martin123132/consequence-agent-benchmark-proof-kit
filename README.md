@@ -18,15 +18,16 @@ notes, and an access path for people who want to request private review.
 If you are new to CAB, read in this order:
 
 1. This README for the claim, boundary, and locked results.
-2. [Why CAB](WHY_CAB.md) for the product thesis.
-3. [Evidence map](EVIDENCE_MAP.md) for what each proof item establishes.
-4. [Public proof one-pager](docs/public-proof-one-pager.md) for the product
+2. [Reviewer handoff](REVIEWER_HANDOFF.md) for the shortest review path.
+3. [Why CAB](WHY_CAB.md) for the product thesis.
+4. [Evidence map](EVIDENCE_MAP.md) for what each proof item establishes.
+5. [Public proof one-pager](docs/public-proof-one-pager.md) for the product
    narrative.
-5. [Evidence review guide](docs/evidence-review-guide.md) for how to inspect
+6. [Evidence review guide](docs/evidence-review-guide.md) for how to inspect
    the benchmark cards.
-6. [Proof manifest](proof-manifest.json) for file hashes and publication-gate
+7. [Proof manifest](proof-manifest.json) for file hashes and publication-gate
    status.
-7. [Access request](ACCESS_REQUEST.md) if you need private verification,
+8. [Access request](ACCESS_REQUEST.md) if you need private verification,
    technical review, or commercial evaluation.
 
 ## Public Proof Release
@@ -105,6 +106,7 @@ Start with:
 ## Buyer And Reviewer Materials
 
 - [Why CAB](WHY_CAB.md)
+- [Reviewer handoff](REVIEWER_HANDOFF.md)
 - [Evidence map](EVIDENCE_MAP.md)
 - [Five-minute reviewer walkthrough](docs/reviewer-walkthrough.md)
 - [Public proof one-pager](docs/public-proof-one-pager.md)

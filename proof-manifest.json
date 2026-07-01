@@ -1,9 +1,9 @@
 {
   "cab_version": "0.5.0.dev0",
-  "created_at": "2026-06-27T16:09:41Z",
-  "directory_hash": "7ee9b435c06ca264893d6d21ab96aaa073fa2a927cd6c06131a156629489f453",
+  "created_at": "2026-07-01T14:58:23Z",
+  "directory_hash": "6ffc5fa28a8d0b0a48fed8644e19bfce0b4990fad2740d6b49eff47122caa329",
   "evidence_release": "v0.4.0",
-  "file_count": 31,
+  "file_count": 32,
   "files": {
     ".github/ISSUE_TEMPLATE/access_request.md": {
       "bytes": 867,
@@ -50,12 +50,16 @@
       "sha256": "558086931e12aa457b07fa8317fb160589481eb326d7d301c9278dedf68922bc"
     },
     "README.md": {
-      "bytes": 5791,
-      "sha256": "2cb2c97cb1df8ab29ed2cdb5561d08e34b14f4d6ab39eb8f6b61422d07cf4533"
+      "bytes": 5906,
+      "sha256": "370e67a00262bfbfe00c7a2c91d814c7086c5ee3a398a055d072eac05a308eda"
     },
     "RELEASE_NOTES.md": {
       "bytes": 985,
       "sha256": "f71c8b512f596addc348bf902b26fb866fef95e3b608e7965fb8d289a7e01a6e"
+    },
+    "REVIEWER_HANDOFF.md": {
+      "bytes": 2658,
+      "sha256": "d94b2719bf438e2d1260d5c4d2b181198eeb2b9734cca3aa0c3769e38e91b00e"
     },
     "TRADEMARKS.md": {
       "bytes": 422,
@@ -130,7 +134,7 @@
       "sha256": "688099d771cd343e642d8eaefb6822d42b08633ce1cea29473228d9255ef3d41"
     }
   },
-  "manifest_hash": "19a4d1a9aaed15ca6cd83676a95f9b28b4f80f1231d699d4099f5e757ab6a433",
+  "manifest_hash": "abe0a4067c403db14c9873913161a58344bca7e769462b85a2376f6035371ca8",
   "proof_version": "v0.1.0-public-proof",
   "publication_gate": {
     "checks": [
@@ -232,5 +236,5 @@
     "private_core": "not included",
     "public_materials": "sanitized proof kit only"
   },
-  "total_bytes": 49793
+  "total_bytes": 52566
 }
